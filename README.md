@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CameronBeamon
+- 👀 I’m interested in coding, fitness and traveling!
+- 🌱 I’m currently learning to be a full stack engineer at Actualize coding bootcamp
+- 💞️ I’m looking to collaborate on anything and everything! Exposure is a top priority for me.
+- 📫 How to reach me: BeamonCameron@gmail.com
